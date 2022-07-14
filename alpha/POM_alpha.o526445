@@ -1,0 +1,16 @@
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+
+NOTE:
+The module -- ase/3.14.0 -- has been deprecated and will be removed during our next maintenance in January, 2023.
+A list of supported versions is available via the 'module avail' command. Please email crcsupport@nd.edu with questions or concerns.
+job was accepted on: date
+[file orca_tools/qcmsg.cpp, line 432]: 
+  .... aborting the run
+
+Loading python/3.7.3
+  Loading requirement: tcl/8.6.8 gcc/8.3.0
+
+NOTE:
+The module -- ase/3.14.0 -- has been deprecated and will be removed during our next maintenance in January, 2023.
+A list of supported versions is available via the 'module avail' command. Please email crcsupport@nd.edu with questions or concerns.

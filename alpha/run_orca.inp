@@ -1,0 +1,16 @@
+#!/bin/csh
+
+#$ -pe smp 1
+#$ -q long
+#$ -N POM_alpha
+#$ -r y
+#$ -M eruiz4@nd.edu
+#$ -m abe 
+
+module load orca
+
+echo job was accepted on: 'date'
+
+orca opt.inp > opt.orca
+
+exit 0
